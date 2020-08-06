@@ -1,0 +1,2 @@
+Bipartite Metric : 0.7749369619898232
+FlowMetric : 0.7404031320800185
