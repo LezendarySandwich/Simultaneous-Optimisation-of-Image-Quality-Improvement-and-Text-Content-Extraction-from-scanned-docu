@@ -42,7 +42,7 @@ python3 run_model.py
 
 ___
 Team  
-Nivedit Jain (B18CSE023)
+Nivedit Jain (B18CSE039)
 <br/>
 Sanskar Mani (B18CSE048)   
 ___
