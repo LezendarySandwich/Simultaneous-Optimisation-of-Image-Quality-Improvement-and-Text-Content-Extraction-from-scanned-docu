@@ -21,8 +21,15 @@
 # References
 - G. Youm, S. Bae and M. Kim, "Image super-resolution based on convolution neural networks using multi-channel input," 2016 IEEE 12th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Bordeaux, 2016, pp. 1-5, doi: 10.1109/IVMSPW.2016.7528224.
 - S. Mujumdar, N. Gupta, A. Jain and D. Burdick, "Simultaneous Optimisation of Image Quality Improvement and Text Content Extraction from Scanned Documents," 2019 International Conference on Document Analysis and Recognition (ICDAR), Sydney, Australia, 2019, pp. 1169-1174, doi: 10.1109/ICDAR.2019.00189.
+# System Requirements
+Python librarires -
+- numpy
+- openCV 4.4.0
+- OS
+- pytesseract
+- tensorflow
+- keras
 ___
-
 Run following commands on Linux Terminal to run the application  
 ```  batch
 git clone https://github.com/LezendarySandwich/Simultaneous-Optimisation-of-Image-Quality-Improvement-and-Text-Content-Extraction-from-scanned-docu.git
@@ -42,7 +49,7 @@ python3 run_model.py
 
 ___
 Team  
-Nivedit Jain (B18CSE023)
+Nivedit Jain (B18CSE039)
 <br/>
 Sanskar Mani (B18CSE048)   
 ___
