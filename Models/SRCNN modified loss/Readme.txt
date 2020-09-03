@@ -1,4 +1,4 @@
 - Correct the path informations for any code you are using.
-- keras_SRCNN is the model.
+- train is the model.
 - Trained Model contains the trained model information
 - compare.py generates the comparisons between the improved image, original image and many others.
